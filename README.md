@@ -42,8 +42,8 @@ Just a Netwon's fractal floating around....
 
 
 
-https://user-images.githubusercontent.com/37117865/169197266-0ce527b3-6425-440a-b68a-e31c0295eda2.mp4
 
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/37117865/169197454-372c9153-828e-4c93-9c79-cd3a466a236d.gif)
 
 
 
