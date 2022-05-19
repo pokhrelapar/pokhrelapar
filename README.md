@@ -35,6 +35,9 @@
     
 </p>
 
+ 
+<body> Here's what a full padding, not strides convolution looks like:
+<image src = "https://github.com/vdumoulin/conv_arithmetic/blob/master/gif/full_padding_no_strides.gif?raw=true"/>
 
 
 
