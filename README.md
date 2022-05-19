@@ -13,5 +13,6 @@
 
 ## <img src= "https://user-images.githubusercontent.com/19261513/128235794-989956b9-8f49-4d9f-b437-f1fca8447306.png" height="20"/> Tools:
 <p>
-
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 </p>
