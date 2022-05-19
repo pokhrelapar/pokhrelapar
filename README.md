@@ -37,10 +37,12 @@
 
 
 
+Just a Netwon's fractal floating around....
 
 
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/37117865/169181716-a19fd855-c44c-4299-8ed1-9fc0e03decbe.gif)
+
+https://user-images.githubusercontent.com/37117865/169197266-0ce527b3-6425-440a-b68a-e31c0295eda2.mp4
 
 
 
