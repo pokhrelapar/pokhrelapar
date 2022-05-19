@@ -36,7 +36,7 @@
 </p>
 
 
-https://user-images.githubusercontent.com/37117865/169179334-65c7ce75-c2c1-4d8c-a171-bbcd335ba96d.mp4
+https://3b1b-posts.us-east-1.linodeobjects.com//content/lessons/2017/neural-networks/network-propagation.mp4#t=0.001
 
 
 
