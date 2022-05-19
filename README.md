@@ -9,8 +9,7 @@
 - 📫 How to reach me: ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 - ⚡ Fun fact: An ancient Japanese legend says if you fold one thousand cranes you will be granted a wish. Feeling lucky?
 
-<p>Welcome to my page!</p>
-<p>.</p>
+
 
 ## <img src= "https://user-images.githubusercontent.com/19261513/128235794-989956b9-8f49-4d9f-b437-f1fca8447306.png" height="20"/> Tools:
 <p>
