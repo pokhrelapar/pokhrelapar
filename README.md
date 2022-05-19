@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Machine Learning Models, and Reinforcement Learning.
 - 🌱 I’m currently learning PyScript, 
 - 💬 Ask me about ...
-- 📫 How to reach me: ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+- 📫 How to reach me: ![aparpokhre.ap@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 - ⚡ Fun fact: An ancient Japanese legend says if you fold one thousand cranes you will be granted a wish. Feeling lucky?
 
 
