@@ -36,8 +36,8 @@
 </p>
 
 
-  <video width="320" height="240" controls src="https://user-images.githubusercontent.com/37117865/169180674-0b0d0c43-7270-47ee-b472-b8083e8a0ce1.mp4"/>
 
+  <video width="200" height="200" controls source src="https://user-images.githubusercontent.com/37117865/169180674-0b0d0c43-7270-47ee-b472-b8083e8a0ce1.mp4"/>
 
 
 
