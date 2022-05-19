@@ -35,8 +35,10 @@
     
 </p>
 
+<video width="320" height="240" controls>
+  <source src="https://3b1b-posts.us-east-1.linodeobjects.com//content/lessons/2017/neural-networks/network-propagation.mp4#t=0.001" >
+</video>
 
-https://3b1b-posts.us-east-1.linodeobjects.com//content/lessons/2017/neural-networks/network-propagation.mp4#t=0.001
 
 
 
