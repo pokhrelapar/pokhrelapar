@@ -36,8 +36,11 @@
 </p>
 
 <video width="320" height="240" controls>
-  <source src="https://3b1b-posts.us-east-1.linodeobjects.com//content/lessons/2017/neural-networks/network-propagation.mp4#t=0.001" >
+  <source src=" https://user-images.githubusercontent.com/37117865/169180674-0b0d0c43-7270-47ee-b472-b8083e8a0ce1.mp4" >
 </video>
+
+
+
 
 
 
