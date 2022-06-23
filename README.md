@@ -1,5 +1,5 @@
 
-Hi 👋 My name is Apar Pokhrel
+Hi 👋 My name is Apar 
 =============================
 
 Aspiring SWE | Machine Learning | Writer
