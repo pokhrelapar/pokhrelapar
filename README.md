@@ -2,7 +2,7 @@
 Hi 👋 My name is Apar 
 =============================
 
-Aspiring SWE | Machine Learning | Writer
+Aspiring Software Engineer | Machine Learning | Writer
 ----------------------------------------
 
 * 🌍  I'm based in Grand Prairie, Texas
