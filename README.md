@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer | Machine Learning | Writer | Bookworm
 ----------------------------------------
 
-*   🌍  I'm based in Grand Prairie, Texas
+*   🌍  I'm based in Irving, Texas
 *   ✉️  You can contact me at [aparpokhrel.ap@gmail.com](mailto:aparpokhrel.ap@gmail.com)
 *   🧠  I'm learning TypeScript
 *   ⚡  Fun fact: An ancient Japanese legend says if you fold one thousand cranes you will be granted a wish. Feeling lucky?
